@@ -1,0 +1,8 @@
+[requires]
+imgui/1.85
+imgui-sfml/2.5@bincrafters/stable
+sfml/2.5.1
+
+[generators]
+CMakeDeps
+CMakeToolchain

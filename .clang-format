@@ -1,0 +1,16 @@
+BasedOnStyle: LLVM
+IndentWidth: 4
+AlignAfterOpenBracket: BlockIndent
+AlignArrayOfStructures: Left
+AlwaysBreakTemplateDeclarations: Yes
+BinPackParameters: false
+PackConstructorInitializers: CurrentLine
+PointerAlignment: Left
+QualifierAlignment: Left
+SortIncludes: Never
+SeparateDefinitionBlocks: Always
+IndentCaseLabels: Yes
+PenaltyReturnTypeOnItsOwnLine: 1000
+PenaltyBreakAssignment: 10
+PenaltyExcessCharacter: 10000
+AllowShortFunctionsOnASingleLine: false
